@@ -22,7 +22,7 @@
 "Insolourdo": {"id": 21, "Nom": "Insolourdo", "Type": "Normal", "Vie": 100, "Attaque": 70, "D\u00e9fense": 70}, 
 "Diosolourdo": {"id": 22, "Nom": "Diosolourdo", "Type": "F\u00e9e, Dragon", "Vie": 260, "Attaque": 255, "D\u00e9fense": 255}, 
 "Sorboule": {"id": 23, "Nom": "Sorboule", "Type": "Glace", "Vie": 51, "Attaque": 65, "D\u00e9fense": 75}, 
-"Sorbouboule": {"id": 24, "Nom": "Sorbouboule", "Type": "Glace", "Vie": 71, "Attaque": 110, "D\u00e9fense": 85}, 
+"Sorbouboule": {"id": 24, "Nom": "Sorbouboule", "Type": "Glace", "Vie": 71, "Attaque": 110, "D\u00e9fense": 85},
 "Groudon": {"id": 25, "Nom": "Groudon", "Type": "Sol", "Vie": 100, "Attaque": 150, "D\u00e9fense": 140}, 
 "Medhy\u00e8na": {"id": 26, "Nom": "Medhy\u00e8na", "Type": "T\u00e9n\u00e8bre", "Vie": 35, "Attaque": 55, "D\u00e9fense": 35}, 
 "Grayh\u00e8na": {"id": 27, "Nom": "Grayh\u00e8na", "Type": "T\u00e9n\u00e8bre", "Vie": 70, "Attaque": 90, "D\u00e9fense": 70}, 
